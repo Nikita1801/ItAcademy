@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">exaple</string>
+    <string name="_123">123</string>
+    <string name="_456">456</string>
+    <string name="_789">789</string>
+    <string name="button">Button</string>
+    <string name="plus">+</string>
+    <string name="devision">*</string>
+    <string name="multiplication">/</string>
+    <string name="minus">-</string>
+    <string name="multipli">*</string>
+    <string name="devid">/</string>
+    <string name="pluss">+</string>
+</resources>
